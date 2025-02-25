@@ -20,3 +20,5 @@
         }
     }
 }
+Glosario de comandos
+Sin duda Git nos permite hacer múltiples acciones mediante diversos comandos, sin embargo, es posible que de tantos comandos que hay, alguno se nos pueda olvidar… Por ello dejamos a continuación un glosario de los comandos más utilizados y cuál es su funcionalidad.
