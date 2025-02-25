@@ -1,22 +1,2 @@
-{
-    "glossary": {
-        "title": "example glossary",
-		"GlossDiv": {
-            "title": "S",
-			"GlossList": {
-                "GlossEntry": {
-                    "ID": "SGML",
-					"SortAs": "SGML",
-					"GlossTerm": "Standard Generalized Markup Language",
-					"Acronym": "SGML",
-					"Abbrev": "ISO 8879:1986",
-					"GlossDef": {
-                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
-						"GlossSeeAlso": ["GML", "XML"]
-                    },
-					"GlossSee": "markup"
-                }
-            }
-        }
-    }
-}
+Glosario de comandos
+Sin duda Git nos permite hacer múltiples acciones mediante diversos comandos, sin embargo, es posible que de tantos comandos que hay, alguno se nos pueda olvidar… Por ello dejamos a continuación un glosario de los comandos más utilizados y cuál es su funcionalidad.
